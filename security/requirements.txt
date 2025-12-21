@@ -1,0 +1,4 @@
+flask
+passlib
+PyJWT
+prometheus-flask-exporter
